@@ -1,2 +1,0 @@
-# CMPUT404-Lab
-CMPUT 404 lab
